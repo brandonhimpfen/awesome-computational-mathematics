@@ -71,6 +71,7 @@
 - **[Octave](https://www.gnu.org/software/octave/)** - An open-source alternative to MATLAB, focusing on numerical computations.
 - **[MATLAB](https://www.mathworks.com/products/matlab.html)** - A high-level language and environment for numerical and symbolic computations.
 - **[Julia](https://julialang.org/)** - A high-performance programming language for technical computing.
+- **[RunMat](https://github.com/runmat-org/runmat)** - Open-source numerical computing runtime with MATLAB syntax and automatic GPU acceleration.
 
 ## Educational Resources
 
